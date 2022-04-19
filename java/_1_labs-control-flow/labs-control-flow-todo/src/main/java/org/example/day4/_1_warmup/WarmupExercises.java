@@ -10,6 +10,10 @@ public class WarmupExercises {
             Implement the logic - method returns true if n1 > n2, false otherwise.
         */
 
+        if(n1 > n2){
+            return true;
+        }
+
         return false;
     }
 
